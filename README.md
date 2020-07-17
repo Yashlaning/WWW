@@ -3,6 +3,9 @@
 Welcome to Lean's  git source of OpenWrt and packages
 =
 中文：如何编译自己需要的 OpenWrt 固件
+
+TIP:此fork版已经对xr819进行了patch，适用于orangepi zero
+
 -
 注意：
 -
